@@ -37,18 +37,22 @@ io.on('connection', (socket) => {
   socket.on('disconnect', () => {
     console.log('user disconnected');
   });
+  
   // room 나가기 : socket.leave
   socket.on('leaveRoom', (roomIdx, name) => {
     socket.leave(room[roomIdx], () => {
       io.to(room[roomIdx]).emit('leaveRoom', roomIdx, name);
     });
   });
+  
   // 토론에서 벗어난 시간 체크
   socket.on('leave', (name, roomIdx) => {
     var date=new Date();
     let disconnectTime = moment(date).format('YYYY-MM-DD HH:mm:ss');
 
-    //디비 통신 부분
+    //디비 통신 부분 입력
+    //-------------------
+    
   });
 
   // 특정 room 에게 이벤트 보낼 시 : io.to('room이름').emit()
@@ -64,8 +68,10 @@ io.on('connection', (socket) => {
     a=roomIdx;
     var date = new Date(); 
     let chatTime = moment(date).format('YYYY-MM-DD HH:mm:ss');
-
-    //디비 통신 부분
+    
+    //디비 통신 부분 입력
+    //-------------------
+    
     io.to(room[a]).emit('chat message', name, msg);
   });
   });

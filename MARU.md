@@ -233,3 +233,17 @@ RELEASE - 버전 배포
 DELETE - 기능 삭제
 DOCS - 문서 편집
 ```
+  
+<br>
+
+# 🐬 ERD
+<div>
+ <img src="https://user-images.githubusercontent.com/58697091/101271518-cb5f3a00-37c6-11eb-94e9-85f31eff85ba.png" width="600" height="600">
+</div>
+  
+<br>
+
+# 🔧 Server Architecture
+<div>
+ <img src="https://user-images.githubusercontent.com/58697091/101271519-cc906700-37c6-11eb-825a-efc0b8ba5acc.png" width="800" height="600">
+</div>

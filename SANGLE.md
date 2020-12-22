@@ -1,4 +1,7 @@
 # Sangle_Server
+하루 3번, 3분동안 글쓰기 습관 길들이기
+
+<br>
 
 ![Malang 01](https://user-images.githubusercontent.com/58697091/102902696-ab13c880-44b2-11eb-8941-e796f4bd311f.png)
 ![Malang 02](https://user-images.githubusercontent.com/58697091/102902708-af3fe600-44b2-11eb-9e62-af31b0cc0bec.png)

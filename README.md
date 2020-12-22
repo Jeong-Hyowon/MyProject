@@ -29,6 +29,7 @@
 <br>
 
 ### 5. [Ounce ver.1](https://github.com/Jeong-Hyowon/MyProject/blob/main/OUNCE_js_ver.md)
+집사를 위한 똑똑한 캣푸드 기록장
 - 2020.06 ~ 2020.07
 - 모바일 앱 해커톤 최우수상
 - 서버파트 MVP
@@ -36,6 +37,7 @@
 <br>
 
 ### 6. [Chaltteok-people](http://52.79.86.164:3000/)
+협업 유형 테스트
 - 2020.06 ~ 2020.08
 - 웹앱 출시
 

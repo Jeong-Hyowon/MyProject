@@ -1,5 +1,5 @@
 # Sangle_Server
-하루 3번, 3분동안 글쓰기 습관 길들이기
+🧠 하루 **3번** , **3분** 동안 글쓰기 습관 길들이기! **생글로 시작하는 간단하고 솔직한 ‘글짓기’**
 
 <br>
 
@@ -25,6 +25,7 @@
 - JsonWebToken
 - AWS EC2, RDS, S3
 - Docker
+- Jenkins
 
 <br>
 

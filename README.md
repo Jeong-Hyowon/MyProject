@@ -4,12 +4,15 @@
 하루 3번 , 3분 동안 글쓰기 습관 길들이는 ‘글짓기’ 플랫폼
 - 2020.09 ~ 현재
 - 1월 출시 예정
+- App Rest API
+- 관리자 대시보드 웹
 
 <br>
 
 ### 2. [TOST](https://github.com/Jeong-Hyowon/MyProject/blob/main/TOST.md)
 토익 스피킹 트레이닝 서비스
 - 2020.10 ~ 현재
+- App Rest API
 
 <br>
 
@@ -17,6 +20,7 @@
 집사를 위한 똑똑한 캣푸드 기록장
 - 2020.11 ~ 현재
 - 1월 출시 예정
+- App Rest API
 
 <br>
 
@@ -25,12 +29,14 @@
 - 2020.08 ~ 2020.10
 - [앱스토어 출시](https://apps.apple.com/kr/app/%EB%A7%88%EB%A3%A8-%EC%86%8C%ED%86%B5%ED%95%98%EB%8A%94-%EB%8F%85%EC%84%9C%EC%9D%98-%EC%A6%90%EA%B1%B0%EC%9B%80/id1530228350)
 - [홈페이지](https://www.marubook.co.kr/)
+- App Rest API
 
 <br>
 
 ### 5. [Ounce ver.1](https://github.com/Jeong-Hyowon/MyProject/blob/main/OUNCE_js_ver.md)
 집사를 위한 똑똑한 캣푸드 기록장
 - 2020.06 ~ 2020.07
+- App Rest API
 - 모바일 앱 해커톤 최우수상
 - 서버파트 MVP
 

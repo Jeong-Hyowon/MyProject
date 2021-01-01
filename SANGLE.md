@@ -14,6 +14,10 @@
 <br>
 <hr>
 
+# Server
+- Rest API
+- Admin dashboard Web
+
 # Development Environment
 - Spring Boot 2.3.3.RELEASE
 - Java 8
@@ -23,6 +27,8 @@
 - Mysql 8.0
 - Firebase fcm 6.5.0
 - JsonWebToken
+- BootStrap
+- Thymeleaf
 - AWS EC2, RDS, S3
 - Docker
 - Jenkins

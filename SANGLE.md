@@ -38,6 +38,7 @@
 # Communication
 - Git
 - Slack
+- Figma
 
 <br>
 

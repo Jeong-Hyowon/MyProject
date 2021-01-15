@@ -45,6 +45,6 @@
 # Team members
 - Pm 남궁선규
 - Design 정미숙
-- Android 강민구
-- iOS 이승호
-- Server 정효원
+- Android [강민구](https://github.com/kangmin1012)
+- iOS [이승호](https://github.com/elesahich)
+- Server [정효원](https://github.com/Jeong-Hyowon)

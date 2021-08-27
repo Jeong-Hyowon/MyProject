@@ -43,7 +43,8 @@
 <br>
 
 # Team members
-- Pm 남궁선규
+- Plan 남궁선규
+- Plan 
 - Design 정미숙
 - Android [강민구](https://github.com/kangmin1012)
 - iOS [이승호](https://github.com/elesahich)

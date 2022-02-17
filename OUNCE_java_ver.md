@@ -1,5 +1,8 @@
 # :heart_eyes_cat: Ounce Server Refactoring version :heart_eyes_cat:
 
+- [iOS 앱스토어 출시](https://apps.apple.com/us/app/ounce-집사를-위한-똑똑한-기록장/id1535653760)
+- [Android 구글플레이 출시](https://play.google.com/store/apps/details?id=com.teamounce.ounce)
+
 <div>
  <img src="https://user-images.githubusercontent.com/58697091/101301210-72051280-387b-11eb-954e-05a6833320c6.png" width="200" height="200">
 

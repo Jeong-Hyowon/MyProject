@@ -1,6 +1,9 @@
 # Sangle_Server
 🧠 하루 **3번** , **3분** 동안 글쓰기 습관 길들이기! **생글로 시작하는 간단하고 솔직한 ‘글짓기’**
 
+- [iOS 앱스토어 출시](https://apps.apple.com/kr/app/%EC%83%9D%EA%B8%80-%EC%83%9D%EA%B0%81%EC%9D%84-%EA%B8%80%EB%A1%9C-%EC%9E%90%EC%9C%A0%EB%A1%AD%EA%B2%8C-%EC%83%9D%ED%99%9C-%EC%86%8D-%EA%B8%80%EC%A7%93%EA%B8%B0-%EC%8A%B5%EA%B4%80/id1534541433)
+- [Android 구글플레이 출시](https://play.google.com/store/apps/details?id=org.three.minutes)
+
 <br>
 
 ![Malang 01](https://user-images.githubusercontent.com/58697091/102902696-ab13c880-44b2-11eb-8941-e796f4bd311f.png)
